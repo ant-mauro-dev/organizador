@@ -88,4 +88,4 @@ Você escolheu não continuar com o programa.
 
 ## Autor
 
-Antônio ([ant-mauro-dev](https://github.com/ant-mauro-dev))
+Antônio ([ant-mauro-dev](https://github.com/ant-mauro-dev)).
